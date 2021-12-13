@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nathaniel Ahao
 - 👀 I’m interested in Cybersecurity, Web and Aplication development
-- 🌱 I’m currently learning python and will be moving to javascript next
+- 🌱 I’m currently improving my javascript 
 - 💞️ I’m looking to collaborate on ...python, django, cybersecurity projects
 - 📫 How to reach me ...whatsapp- +254759158305 or email amokenathaniel@gmail.com
 
